@@ -1,0 +1,36 @@
+.expenseInput {
+    border: 2px solid rgb(236, 9, 111);
+        background-color: rgb(255, 197, 117);
+        border-radius: 20px;
+        margin-top: 1%;
+        padding-top: 0%;
+        text-decoration: none;
+
+}
+.expenseInput ul{
+    list-style-type:none;
+}
+.expenseInput button {
+    margin-left: 3%;
+    font: inherit;
+    background-color: rgb(240, 117, 17);
+    border: 1px solid rgb(2, 2, 2);
+    color: white;
+    font-weight: bold;
+    padding: 0.3rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.expenseInput button:hover {
+    background-color: #d75311;
+    color: #fdfbff;
+}
+
+.data {
+   margin-left:40px;
+   margin-right: 50px;
+   text-decoration:none;
+   padding:5px;
+   color: blue;
+}
